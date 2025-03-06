@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Chetan Katkar
-🚀 **Learning Java, C, Rust and Python**
-🎯 Currently solving problems to improve my skills.  
+-🚀 **Learning Java, C, Rust and Python**
+-🎯 Currently solving problems to improve my skills.  
 
 ## 🛠️ Tech Stack
 **Languages:**  
