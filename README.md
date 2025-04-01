@@ -1,12 +1,11 @@
 # Hi there! 👋 I'm Chetan Katkar
--🚀 **Learning Java, C and Python**
+-🚀 **Learning Java and C.**
 -🎯 Currently solving problems to improve my skills.  
 
 ## 🛠️ Tech Stack
 **Languages:**  
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 
 ## 🔗 Connect with Me
 📧 gmail: chetankatkar0307@gmail.com  
