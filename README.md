@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Chetan Katkar
 -🚀 **Learning Java and C.**
--🎯 Currently solving problems to improve my skills.  
+-🎯 solving problems on **Leetcode**.  
 
 ## 🛠️ Tech Stack
 **Languages:**  
