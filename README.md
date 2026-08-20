@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Chetan+Katkar;Building+Reliable+Backend+Systems;Java+%7C+Spring+Boot+%7C+Rust;Solving+Hard+Problems+Daily" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Chetan+Katkar;Building+Reliable+Backend+Systems;Java+%7C+Spring+Boot+%7C+SQL;Solving+Hard+Problems+Daily" alt="Typing SVG" />
   
   <br/>
   <i>Final-year Computer Engineering student. Systems architecture enthusiast. Relentless problem solver.</i>
