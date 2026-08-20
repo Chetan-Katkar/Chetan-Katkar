@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=ED8B00&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Chetan+Katkar;Building+Reliable+Backend+Systems;Java+%7C+Spring+Boot+%7C+Microservices;Solving+Complex+Problems+Daily" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2ECC71&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Chetan+Katkar;Building+Reliable+Backend+Systems;Java+%7C+Spring+Boot+%7C+Microservices;Solving+Complex+Problems+Daily" alt="Typing SVG" />
   
   <br/>
   <i>Final-year Computer Engineering student. Systems architecture enthusiast. Relentless problem solver.</i>
@@ -21,10 +21,10 @@ I'm a backend-focused developer who loves building things from scratch and under
 
 <div align="center">
   <a href="https://github.com/Chetan-Katkar">
-    <img src="https://github-readme-stats.vercel.app/api?username=Chetan-Katkar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF" alt="Chetan's GitHub stats" width="48%" />
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Chetan-Katkar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" width="48%" />
   </a>
   <a href="https://github.com/Chetan-Katkar">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan-Katkar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9" alt="Top Languages" width="48%" />
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Chetan-Katkar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9" alt="Top Languages" width="48%" />
   </a>
 </div>
 
@@ -33,7 +33,11 @@ I'm a backend-focused developer who loves building things from scratch and under
 <div align="center">
   <!-- Dynamic LeetCode Card -->
   <a href="https://leetcode.com/u/ChetanKatkar/">
-    <img src="https://leetcard.jacoblin.cool/ChetanKatkar?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/ChetanKatkar?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="48%" />
+  </a>
+  <!-- Dynamic Codeforces Card -->
+  <a href="https://codeforces.com/profile/chetankatkar0307">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=chetankatkar0307&theme=radical&disable_animations=false&show_icons=true" alt="Codeforces Stats" width="48%" />
   </a>
 </div>
 
