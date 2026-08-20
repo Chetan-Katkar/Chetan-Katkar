@@ -1,26 +1,38 @@
-# Hi there! 👋 I'm Chetan Katkar
--🚀 **Learning Java and C.**
--🎯 solving problems on **Leetcode**.  
+Katkar
+🚀 Learning & Building: Specializing in Backend Systems with Java and Spring Boot.
+🎯 Problem Solving: Solved 480+ problems on LeetCode, focusing on DSA and SQL.
+🎓 Education: B.Tech in Computer Engineering @ Vidyalankar Institute of Technology (9.33 CGPA).
+🛠️ Tech Stack
+Languages:
+JavaCPythonRustSQL
 
-## 🛠️ Tech Stack
-**Languages:**  
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) 
+Backend & Frameworks:
+Spring BootHibernateREST APIsMicroservices
 
-## 🔗 Connect with Me
-📧 gmail: chetankatkar0307@gmail.com  
+Databases & DevOps:
+PostgreSQLMongoDBDockerAWS
 
-<!--
-**Chetan-Katkar/Chetan-Katkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Featured Projects
+PingGuard — Uptime Monitoring SaaS
+An open-source uptime monitoring service built from scratch.
 
-Here are some ideas to get you started:
+Tech: Java 21, Spring Boot 3, PostgreSQL, Docker Compose.
+Features: JWT Authentication, custom Spring Security filters, automated DB timestamp tracking, and a background Ping Engine.
+LookUp — System-wide Dictionary Application
+A desktop dictionary app with 100+ active installs across Windows and macOS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech: Rust, Tauri, AWS (API Gateway, Lambda, DynamoDB).
+Features: Low-level OS clipboard integration, dual-API fallback for <1s lookups, and hardware-tied licensing backend.
+🏆 Achievements & Certifications
+LeetCode: Solved 480+ problems (Arrays, Trees, Graphs, DP) & 50+ SQL queries.
+Surge Algorithm Auction: 3rd Place in competitive programming contest.
+Bug Auction: 3rd Place in debugging and code analysis competition.
+Certifications: Algorithms and Data Structures (Princeton University), Data Structures & JUnit (UPenn).
+🔗 Connect with Me
+📧 Email: 
+chetankatkar0307@gmail.com
+
+💼 LinkedIn: linkedin.com/in/chetan-katkar
+👨‍💻 LeetCode: leetcode.com/u/ChetanKatkar
+
+Off
